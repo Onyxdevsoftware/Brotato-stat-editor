@@ -35,6 +35,13 @@ A comprehensive GUI save editor for the indie game **Brotato**, allowing you to 
   </tr>
 </table>
 
+[![GitHub stars](https://img.shields.io/github/stars/Onyxdevsoftware/Brotato-stat-editor?style=social)](https://github.com/Onyxdevsoftware/Brotato-stat-editor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Onyxdevsoftware/Brotato-stat-editor?style=social)](https://github.com/Onyxdevsoftware/Brotato-stat-editor/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Onyxdevsoftware/Brotato-stat-editor)](https://github.com/Onyxdevsoftware/Brotato-stat-editor/issues)
+[![GitHub release](https://img.shields.io/github/v/release/Onyxdevsoftware/Brotato-stat-editor)](https://github.com/Onyxdevsoftware/Brotato-stat-editor/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Onyxdevsoftware/Brotato-stat-editor/total)](https://github.com/Onyxdevsoftware/Brotato-stat-editor/releases)
+
+
 
 
 
