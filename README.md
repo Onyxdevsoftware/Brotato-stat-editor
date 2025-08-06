@@ -1,6 +1,6 @@
 # 🥔 Brotato Save Editor
 
-A comprehensive GUI save editor for the indie game **Brotato**, allowing you to modify player stats, inventory, run progress, etc.
+A comprehensive GUI save editor for the indie game [**Brotato**](https://store.steampowered.com/app/1942280/Brotato/), allowing you to modify player stats, inventory, run progress, etc.
 
 ### Prerequisites
 - Python 3.7+
