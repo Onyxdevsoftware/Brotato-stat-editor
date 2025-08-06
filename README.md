@@ -12,6 +12,7 @@ A comprehensive GUI save/stat editor for the indie game [**Brotato**](https://st
 3. **Edit Stats**: Use the tabbed interface to modify various game aspects
 4. **Save Changes**: Use "💾 Save" or "📋 Save As"
 5. **Revert**: Use "↶ Revert back to original save" to undo all changes
+6. **Important note**: Restart the game after your modifications. (or modify your save with the game off)
 
 ## Questions
 Why is my anti-virus warning me about the file?
