@@ -1,4 +1,4 @@
-# 🥔 Brotato Save Editor
+# 🥔 A simple Brotato stat/save editor.
 
 A comprehensive GUI save editor for the indie game [**Brotato**](https://store.steampowered.com/app/1942280/Brotato/), allowing you to modify player stats, inventory, run progress, etc.
 
