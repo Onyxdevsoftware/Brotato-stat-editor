@@ -30,12 +30,16 @@ Why is my anti-virus warning me about the file?
       <em>Wave editing, custom enemy scaling</em>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b4130cc2-2279-4ed1-978f-159e5fbfd050" width="300" alt="Stat Editing" /><br>
+      <img src="https://github.com/user-attachments/assets/b4130cc2-2279-4ed1-978f-159e5fbfd050" width="350" alt="Stat Editing" /><br>
       <em>Stat Editing</em>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/1b2aaa15-c232-4e80-908c-555f4f567e2f" width="150" alt="Inventory View" /><br>
+      <img src="https://github.com/user-attachments/assets/1b2aaa15-c232-4e80-908c-555f4f567e2f" width="250" alt="Inventory View" /><br>
       <em>Modified stats</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/16eb2817-0509-4c45-82b7-c57f6d430120" width="350" alt="Inventory View" /><br>
+      <em>Meme builds</em>
     </td>
   </tr>
 </table>
@@ -48,6 +52,7 @@ Why is my anti-virus warning me about the file?
 
 <meta name="keywords" content="Brotato stat editor, Brotato save editor, Brotato tool, Brotato mod, Brotato hack, Brotato save file editor, Brotato character editor, Brotato game editor, Brotato cheat tool, Brotato customization, Brotato gameplay editor, Brotato utility, Brotato save manager">
 <meta name="description" content="Brotato stat and save editor GUI tool for modifying player stats, inventory, and run progress in the indie game Brotato. Easy to use, safe, and open source.">
+
 
 
 
