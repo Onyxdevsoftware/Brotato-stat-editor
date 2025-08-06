@@ -14,7 +14,8 @@ A comprehensive GUI save editor for the indie game **Brotato**, allowing you to 
 4. **Save Changes**: Use "💾 Save" or "📋 Save As"
 5. **Revert**: Use "↶ Revert back to original save" to undo all changes
 
-## 📞 Contact
+## Contact
+ Do you have any questions?
 - **Discord**: Onyxdevsoftware
 
 ### Screenshots
