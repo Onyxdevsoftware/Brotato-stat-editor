@@ -5,7 +5,7 @@ import copy
 import os
 
 '''
-@Author OnyxDev
+@Author Onyxdevsoftware
 
 Description:
 A simple Brotato stat editor.
@@ -14,7 +14,7 @@ A simple Brotato stat editor.
 class BrotatoSaveEditor:
     def __init__(self, root):
         self.root = root
-        self.root.title("Brotato stat editor - Contact: @Onyxdev on Discord.")
+        self.root.title("Brotato stat editor - Contact: @Onyxdevsoftware on Discord.")
         self.root.geometry("950x700")
         self.root.minsize(800, 600)
         
