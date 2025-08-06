@@ -13,6 +13,11 @@ A comprehensive GUI save editor for the indie game **Brotato**, allowing you to 
 4. **Save Changes**: Use "💾 Save" or "📋 Save As"
 5. **Revert**: Use "↶ Revert back to original save" to undo all changes
 
+## Questions
+Why is my anti-virus warning me about the file?
+- Some anti-virus programs detect save editors as potential threats because they modify game files and access system folders. This behavior can trigger false positives.
+- Run it directly from source by downloading [Python](https://www.python.org/downloads/) if you want to feel extra safe :)
+
 ## Contact
 - **Discord**: Onyxdevsoftware
   
