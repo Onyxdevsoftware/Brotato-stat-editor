@@ -15,7 +15,7 @@ A comprehensive GUI save/stat editor for the indie game [**Brotato**](https://st
 
 ## Questions
 Why is my anti-virus warning me about the file?
-- Some anti-virus programs detect save editors as potential threats because they modify game files and access system folders. This behavior can trigger false positives.
+- Some anti-virus programs detect save editors as potential threats because they modify game files and access system folders. This behavior can trigger false positives. Simply click on *"Run anyway"* to ignore this warning.
 - Run it directly from source by downloading [Python](https://www.python.org/downloads/) if you want to feel extra safe :)
 
 ## Contact
