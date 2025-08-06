@@ -4,10 +4,9 @@ A comprehensive GUI save editor for the indie game **Brotato**, allowing you to 
 
 ### Prerequisites
 - Python 3.7+
-- tkinter (usually included with Python)
 - 
 ### Usage
-1. **Download** the application or run it from source.
+1. [**Download**](https://github.com/Onyxdevsoftware/Brotato-stat-editor/releases/download/brotato/brotato.stat.editor.exe) the application or run it from source.
 2. **Open Save File**: Click "📁 Open" and navigate to your Brotato save file
    - Default location: `%APPDATA%/brotato/`
 3. **Edit Stats**: Use the tabbed interface to modify various game aspects
