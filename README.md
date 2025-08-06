@@ -46,6 +46,10 @@ Why is my anti-virus warning me about the file?
 [![GitHub release](https://img.shields.io/github/v/release/Onyxdevsoftware/Brotato-stat-editor)](https://github.com/Onyxdevsoftware/Brotato-stat-editor/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Onyxdevsoftware/Brotato-stat-editor/total)](https://github.com/Onyxdevsoftware/Brotato-stat-editor/releases)
 
+<meta name="keywords" content="Brotato stat editor, Brotato save editor, Brotato tool, Brotato mod, Brotato hack, Brotato save file editor, Brotato character editor, Brotato game editor, Brotato cheat tool, Brotato customization, Brotato gameplay editor, Brotato utility, Brotato save manager">
+<meta name="description" content="Brotato stat and save editor GUI tool for modifying player stats, inventory, and run progress in the indie game Brotato. Easy to use, safe, and open source.">
+
+
 
 
 
